@@ -52,16 +52,17 @@ Tools: Jupyter, Git, GitHub, VS Code
 
 📊 Data Analytics mini projects
 
+
 🔗 Portfolio
 
-📂 My complete portfolio including Resume, Projects, Certificates and ML work
-👉 Click to View
+📂 My complete portfolio including Resume, Projects, Certificates, and ML work:  
+**[View Portfolio](https://drive.google.com/file/d/11gw9qKh0J8hTwOLkdLsx-hkACVdxCWII/view?usp=drive_link)**
 
 📫 Connect With Me
 
 📧 Email: shambhurajejagadale@gmail.com
 
-📱 Mobile: 7038455063
+📱 Mobile: 70384*****
 🔗 LinkedIn: Check GitHub bio
 
 ⭐ Thanks for visiting
