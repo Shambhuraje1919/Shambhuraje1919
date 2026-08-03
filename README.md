@@ -121,12 +121,13 @@ I currently maintain two active learning repos:
 
 <br/>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shambhuraje1919&theme=radical&no-frame=true&row=1&column=7" />
 </div>
-
+-->
 <br/>
 
 ## 🏙️ 3D Contribution Skyline
