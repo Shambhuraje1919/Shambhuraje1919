@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Hey,%20I'm%20Shambhuraje%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Kaggle%20Expert%20%7C%20Gold%20Medalist&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Shambhuraje1919">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+Data+into+Intelligent+Systems+%F0%9F%A4%96;Kaggle+Expert+%23148+Global+in+Datasets+%F0%9F%8F%86;1000%2B+DSA+Problems+Solved+in+Java+%E2%9A%A1;Academic+Gold+Medalist+%7C+E%26TC+Engineering+%F0%9F%A5%87;Author+of+%22Philosophy+of+a+Lost+Soul%22+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+Data+into+Intelligent+Systems+%F0%9F%A4%96;Kaggle+Expert+%2384+Global+in+Datasets+%F0%9F%8F%86;1000%2B+DSA+Problems+Solved+in+Java+%E2%9A%A1;Academic+Gold+Medalist+%7C+E%26TC+Engineering+%F0%9F%A5%87;Author+of+%22Philosophy+of+a+Lost+Soul%22+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 <table align="center">
 <tr>
 <td align="center" width="200">🥇<br/><b>Academic Gold Medalist</b><br/><sub>Electronics & Telecommunication Engineering, MITCORER</sub></td>
-<td align="center" width="200">🏆<br/><b>Kaggle Expert</b><br/><sub>#148 Global — Datasets</sub></td>
+<td align="center" width="200">🏆<br/><b>Kaggle Expert</b><br/><sub> Global Rank #84 in Kaggle Datasets</sub></td>
 <td align="center" width="200">🤖<br/><b>Former LLM Training Intern</b><br/><sub>Ethara AI</sub></td>
 </tr>
 <tr>
