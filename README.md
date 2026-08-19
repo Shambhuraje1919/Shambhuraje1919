@@ -62,6 +62,8 @@ I currently maintain two active learning repos:
 </a>
 <a href="https://codolio.com/profile/Sam19">
   <img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge" />
+<a href="https://drive.google.com/file/d/1fMccTPIDiVbuHSl2fnqGSQk32u-RDSOm/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
 </a>
 </div>
 
